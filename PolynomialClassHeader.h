@@ -1,9 +1,4 @@
-/*
- * Polynomial.h
- *
- *  Created on: Oct 24, 2013
- *      Author: cltarng
- */
+
 
 #ifndef POLYNOMIAL_H_
 #define POLYNOMIAL_H_
